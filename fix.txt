@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.freemarker</groupId
+	<artifactId>freemarker</artifactId
+</dependency>
+```
